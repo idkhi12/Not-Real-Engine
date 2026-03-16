@@ -1,10 +1,10 @@
 Not Real Engine
 
-A free, open source 3D game engine with its own scripting language — built to be simpler than anything else out there.
+A free, open source 3D game engine with its own scripting language — built to be as simple as GDscript.
 
 
 What is Not Real Engine?
-Not Real Engine (NRE) is an open source 3D game engine designed to be powerful, lightweight, and actually easy to use. It comes with Notlanguage — a custom scripting language built into the engine that's as simple as GDScript, so you can script your game without fighting the tools.
+Not Real Engine (NRE) is an open source 3D game engine designed to be powerful, lightweight, and actually easy to use. It comes with Notlanguage — a custom scripting language built into the engine that's as simple as GDScript, so you can script your game without much problems.
 
 Planned Features:
 Full 3D rendering with OpenGL
